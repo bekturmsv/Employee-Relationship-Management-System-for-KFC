@@ -1,0 +1,9 @@
+beka 123 worker 
+chingiz 23 worker
+baisal 321 director 
+kim 345 director 
+nuris nuris marketing 
+man 123 manager 
+bermet 0505 worker
+bektur 211 manager 
+Baisal 1234 manager 
